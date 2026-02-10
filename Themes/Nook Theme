@@ -1,0 +1,3 @@
+Type this full cmd to install nook theme automaticly - 
+
+bash <(curl -s https://raw.githubusercontent.com/MASHINISTPROJECT/AutoInstall_NookTheme/refs/heads/main/autoinstall_nooktheme.sh)
